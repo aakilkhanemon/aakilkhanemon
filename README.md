@@ -5,9 +5,9 @@
 👀 I’m interested in Bioinformatics and Computational Biology.
 🌱 I’m currently learning R and Python programming language.
 💞️ I’m looking to collaborate on scientific ecosystems.
-📫 How to reach me https://twitter.com/aakilkhanemon
+📫 How to reach me aakilkhanemon@yahoo.com | 
 
-Skills: C/ C++/ Python/ Bash
+Skills: C/C++/Python/R/Bash
 
 - 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects. 
 - 🌱 I’m currently learning Bash, Linux 
