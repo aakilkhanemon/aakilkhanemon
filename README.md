@@ -3,7 +3,6 @@
 #### I am bioscience research enthusiastic.
 👋 Hi, I’m Mohammed Emon.
 👀 I’m interested in Bioinformatics and Computational Biology.
-🌱 I’m currently learning R and Python programming language.
 💞️ I’m looking to collaborate on scientific ecosystems.
 📫 How to reach me aakilkhanemon@yahoo.com | 
 
