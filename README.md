@@ -4,9 +4,9 @@
 - 👀 I’m interested in Computational Biology, Cancer Genomics and Human Pathogenic Infectious Disease.
 - 💞️ I’m looking to collaborate on scientific ecosystems.
 - 🎯 Computational Skills: 
-- • Programming Language: C, C++, R, Python, Basic HTML, Bash script etc. Programming Languages
-- • Software Skills: Discovery Studio, PyRx, Autodock, PyMol, Discovery Studio, MEGA-X, Open Babel, MetaboAnalysts, Reactome, Photoshop, Illustrator, etc.
-- • Internet Technology: Web Design, Blogging, GitHub project, Google Docs etc.
+- Programming Languages: C, C++, R, Python, Basic HTML, Bash script etc.
+- Software Skills: Discovery Studio, PyRx, Autodock, PyMol, MEGA-X, Open Babel, MetaboAnalysts, Reactome, Photoshop, Illustrator, etc.
+- Internet Technology: Web Design, Blogging, GitHub project, Google Docs etc.
 - 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects. 
 - 🌱 I’m currently learning Bash, Linux as intermediate stage.
 - 📫 How to reach me: aakilkhanemon@yahoo.com
