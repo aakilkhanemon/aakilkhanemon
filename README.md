@@ -1,16 +1,16 @@
 ![I am bioscience research enthusiastic.](https://media-exp1.licdn.com/dms/image/C5622AQEiIB39FNev0Q/feedshare-shrink_800/0/1647488549976?e=1650499200&v=beta&t=BVgTpE7z2oS-9fU5kk1z_MY_3v4uuDoY6qEFXqWCnhQ)
 ### Hi there 👋, My name is Aakil Khan Emon
-#### I am bioscience research enthusiastic.
-- 👋 Hi, I’m Mohammed Emon.
-- 👀 I’m interested in Bioinformatics and Computational Biology.
+#### I am a Bioscience Research Enthusiastic.
+- 👀 I’m interested in Computational Biology, Cancer Genomics and Human Pathogenic Infectious Disease.
 - 💞️ I’m looking to collaborate on scientific ecosystems.
-- 📫 How to reach me aakilkhanemon@yahoo.com | 
-
-Skills: C/C++/Python/R/Bash
-
+- 🎯 Computational Skills: 
+ 
+ • Programming Language: C, C++, R, Python, Basic HTML, Bash script etc. Programming Languages
+ • Software Skills: Discovery Studio, PyRx, Autodock, PyMol, Discovery Studio, MEGA-X, Open Babel, MetaboAnalysts, Reactome, Photoshop, Illustrator, etc.
+ • Internet Technology: Web Design, Blogging, GitHub project, Google Docs etc.
 - 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects. 
-- 🌱 I’m currently learning Bash, Linux 
-
+- 🌱 I’m currently learning Bash, Linux as intermediate stage.
+- 📫 How to reach me: aakilkhanemon@yahoo.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aakilkhanemon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/ 0000-0002-2150-967X)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg' alt='publons' height='40'>](https://publons.com/researcher/4627279/mohammed-emon/)  
 
