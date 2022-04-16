@@ -2,13 +2,14 @@
 ### Hi there 👋, My name is Aakil Khan Emon
 #### I am a Bioscience Research Enthusiastic.
 - 👀 I’m interested in Computational Biology, Cancer Genomics and Human Pathogenic Infectious Disease.
+- 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects. 
+- 🌱 I’m currently learning Bash scripting , Linux commands as intermediate stage.
 - 💞️ I’m looking to collaborate on scientific ecosystems.
 - 🎯 Computational Skills: 
 - Programming Languages: C, C++, R, Python, Basic HTML, Bash script etc.
 - Software Skills: Discovery Studio, PyRx, Autodock, PyMol, MEGA-X, Open Babel, MetaboAnalysts, Reactome, Photoshop, Illustrator, etc.
 - Internet Technology: Web Design, Blogging, GitHub project, Google Docs etc.
-- 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects. 
-- 🌱 I’m currently learning Bash, Linux as intermediate stage.
+- 💞️ I’m looking to collaborate on scientific ecosystems.
 - 📫 How to reach me: aakilkhanemon@yahoo.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aakilkhanemon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/ 0000-0002-2150-967X)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg' alt='publons' height='40'>](https://publons.com/researcher/4627279/mohammed-emon/)  
