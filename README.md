@@ -1,10 +1,10 @@
 ![I am bioscience research enthusiastic.](https://media-exp1.licdn.com/dms/image/C5622AQEiIB39FNev0Q/feedshare-shrink_800/0/1647488549976?e=1650499200&v=beta&t=BVgTpE7z2oS-9fU5kk1z_MY_3v4uuDoY6qEFXqWCnhQ)
 ### Hi there 👋, My name is Aakil Khan Emon
 #### I am bioscience research enthusiastic.
-👋 Hi, I’m Mohammed Emon.
-👀 I’m interested in Bioinformatics and Computational Biology.
-💞️ I’m looking to collaborate on scientific ecosystems.
-📫 How to reach me aakilkhanemon@yahoo.com | 
+-👋 Hi, I’m Mohammed Emon.
+-👀 I’m interested in Bioinformatics and Computational Biology.
+-💞️ I’m looking to collaborate on scientific ecosystems.
+-📫 How to reach me aakilkhanemon@yahoo.com | 
 
 Skills: C/C++/Python/R/Bash
 
