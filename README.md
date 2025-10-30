@@ -1,16 +1,16 @@
-### Hi there 👋, My name is Aakil Khan Emon
+### Hi there 👋, My name is Aakil Khan Emon (My friends call me Aakil)
 #### I am a Bioscience Research Enthusiastic.
 ![I am a Bioscience Research Enthusiastic.](https://camo.githubusercontent.com/8afc935b0681bfa9fe3848d6864f58926f20c4bc20a474b36b1db85711710d48/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43353632324151456949423339464e657630512f6665656473686172652d736872696e6b5f3830302f302f313634373438383534393937363f653d3136353034393932303026763d6265746126743d425667547045377a326f532d396655356b6b317a5f4d595f3376347575446f5936714546587157436e6851)
 
-- 👀 I’m interested in Computational Biology, Cancer Genomics and Human Pathogenic Infectious Disease.
+- 👀 I’m interested in Cheminformatics, Medicinal Chemistry, AI-driven Drug Discovery and Infectious Disease research.
 - 🔭 I’m currently working on several genomics, bioinformatics and proteomics research projects.
-- 🌱 I’m currently learning Bash scripting , Linux commands as intermediate stage.
+- 🌱 I’m currently learning Bash scripting (Intermediate stage), Linux commands (Intermediate stage) and Alphafold
 - 🎯 Computational Skills:
 - Programming Languages: C, C++, R, Python, Basic HTML, Bash script etc.
-- Software Skills: Discovery Studio, PyRx, Autodock, PyMol, MEGA-X, Open Babel, MetaboAnalysts, Reactome, Photoshop, Illustrator, etc.
-- Internet Technology: Web Design, Blogging, GitHub project, Google Docs etc.
-- 💞️ I’m looking to collaborate on scientific ecosystems.
-- 📫 How to reach me: aakilkhanemon@yahoo.com
+- Software and Computational Skills: Discovery Studio, PyRx, AutoDock, PyMol, MEGA-X, Open Babel, MetaboAnalysts, Reactome, GraphPadPrism, and more than 50 online servers (can run robustly to generate biological results)   etc.
+- Internet Technology: Web Design, Google Site, GitHub Project, Google Docs etc.
+- 💞️ I’m looking to collaborate on advanced AI driven bioinformatics, genomics, and cheminformatics insights.
+- 📫 How to reach me: aakilkhan971@gmail.com 
 
 
 
