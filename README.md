@@ -1,8 +1,5 @@
 ### Hi there 👋, My name is Aakil Khan Emon (My friends call me Aakil)
 
-(https://camo.githubusercontent.com/8afc935b0681bfa9fe3848d6864f58926f20c4bc20a474b36b1db85711710d48/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43353632324151456949423339464e657630512f6665656473686172652d736872696e6b5f3830302f302f313634373438383534393937363f653d3136353034393932303026763d6265746126743d425667547045377a326f532d396655356b6b317a5f4d595f3376347575446f5936714546587157436e6851)
-
-
 I am an **Erasmus Mundus Master's Scholar** specializing in **Bioinformatics**, **Immunoinformatics**, **Cheminformatics** and **AI-driven Drug Discovery**. 
 
 Coming from a background in **Biotechnology & Genetic Engineering**, I am now bridging the gap between conventional In Silico strategy and AI-driven computational advancement in Europe. My focus is on leveraging artificial intelligence (AI) and structural biology to tackle **Infectious Diseases**.
