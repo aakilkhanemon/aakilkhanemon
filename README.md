@@ -1,51 +1,59 @@
-### Hi there 👋, My name is Aakil Khan Emon (My friends call me Aakil)
+<div align="center">
 
-I am an **Erasmus Mundus Master's Scholar** specializing in **Bioinformatics**, **Immunoinformatics**, **Cheminformatics** and **AI-driven Drug Discovery**. 
+# Aakil Khan Emon
+### **Computational Biologist & AI-Driven Drug Discovery Researcher**
+*Erasmus Mundus Scholar | Specialist in Cheminformatics, Molecular Dynamics & Structural Bioinformatics*
 
-Coming from a background in **Biotechnology & Genetic Engineering**, I am now bridging the gap between conventional In Silico strategy and AI-driven computational advancement in Europe. My focus is on leveraging artificial intelligence (AI) and structural biology to tackle **Infectious Diseases**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Research%20Hub-blue?style=for-the-badge&logo=gitbook)](https://github.com/aakilkhanemon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org)
+[![Email](https://img.shields.io/badge/Email-aakilkhan971@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:aakilkhan971@gmail.com)
 
----
-
-#### 🔭 Research Focus
-* **AI in Healthcare:** Applying Deep Learning for *de novo* drug design.
-* **Structural Biology:** Utilization of AlphaFold and molecular dynamics for target identification.
-* **Immunoinformatics:** Epitope prediction and subunit and mRNA vaccine design.
-
-#### 🛠 Computational Stack
-
-**Programming & Scripting**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**Bioinformatics & Cheminformatics Tools**
-* **Docking & Dynamics:** AutoDock Vina, PyRx, Gaussian, Desmond, Maestro
-* **Visualization:** PyMol, Discovery Studio, UCSF Chimera.
-* **Pathway Analysis:** Reactome, MetaboAnalyst.
-
-#### 🌱 Current Learning
-I am currently deepening my expertise in **Linux-based HPC workflows** and integrating **AlphaFold** predictions into high-throughput docking pipelines.
-
-#### 💞️ Collaboration
-I am open to collaborations on projects regarding **advanced QSAR modeling**, **virtual screening**, or **open-source bioinformatics tool development**.
+</div>
 
 ---
 
-- 📫 How to reach me: aakilkhan971@gmail.com 
+### **🔬 Research Profile & Expertise**
+I am an Erasmus Mundus Joint Master Degree graduate specializing in advanced computational biology, structural cheminformatics, and machine learning for therapeutic design. My academic and research trajectory bridges rigorous biophysical simulation with artificial intelligence to target complex viral machineries, oncology interfaces, and rare disease targets. 
 
+* **AI-Driven Virtual Screening:** Engineered automated high-throughput virtual screening (HTVS) workflows combining multi-stage empirical docking, induced-fit modeling (MOE), and deep-learning convolutional neural networks (GNINA).
+* **Structural Biophysics & Dynamics:** Expert in executing high-resolution Molecular Dynamics (MD) simulations (GROMACS, Desmond, OpenMM, NAMD/VMD) and quantifying binding free energies via MM-GBSA/PBSA (AmberTools, gmx_MMPBSA).
+* **Cheminformatics & SAR Optimization:** Proficient in developing Python-driven pipelines utilizing RDKit, Morgan fingerprints, 3D-pharmacophore mapping, and predictive machine learning models.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aakilkhanemon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aakilkhanemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/my-orcid?orcid=0000-0002-2150-967X)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/publons.svg' alt='publons' height='40'>](https://publons.com/researcher/4627279/mohammed-emon/)  
+### **💻 Technical Stack & Computing Infrastructure**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Programming & Scripting** | Python (Pandas, NumPy, Scikit-Learn, RDKit), R, Bash Scripting, C++ |
+| **Molecular Modeling & Dynamics** | GROMACS, Desmond, OpenMM, NAMD, AutoDock Vina, PyRx, MOE, Gaussian |
+| **Deep Learning & AI** | GNINA (CNN scoring), AlphaFold/Structural Embeddings, QSAR Architecture |
+| **Analysis & Visualization** | PyMOL, UCSF ChimeraX, Discovery Studio, Matplotlib, Seaborn |
+| **HPC Environments** | Linux Cluster Administration, SLURM Workload Manager, Git/GitHub Version Control |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakilkhanemon)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aakilkhanemon&show_icons=true)  
+### **🚀 Featured Computational Repositories & Workflows**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aakilkhanemon)  
+* **[AI-MultiTarget-Screening-Pipeline](https://github.com/aakilkhanemon)**: Automated Python & RDKit pipeline for processing large chemical libraries, filtering via Lipinski/ADMET rules, and executing parallelized docking campaigns.
+* **[MD-Binding-Free-Energy-Toolkit](https://github.com/aakilkhanemon)**: Modular scripts and automation workflows for setting up GROMACS/Desmond production runs and parsing MM-PBSA/GBSA binding trajectories.
+* **[In-Silico-Vaccine-Design-Framework](https://github.com/aakilkhanemon)**: Computational pipeline for reverse vaccinology, T/B-cell epitope prediction, structural stability assessment, and immune simulation modeling.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aakilkhanemon)  
+---
 
-![Profile views](https://gpvc.arturio.dev/aakilkhanemon)  
+### **🌱 Current Focus & Collaborative Vision**
+I am actively advancing my computational frameworks toward **allosteric and interface-selective drug design** (targeting protein-protein interaction networks and complex viral/oncology targets). 
+
+> *“Translating structural data and machine learning predictions into experimentally validated therapeutic solutions for global health challenges.”*
+
+---
+
+<div align="center">
+
+### **📊 GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakilkhanemon&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Aakil's GitHub Stats" />
+</p>
+
+</div>
