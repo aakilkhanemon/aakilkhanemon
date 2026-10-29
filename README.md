@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Research%20Hub-blue?style=for-the-badge&logo=gitbook)](https://github.com/aakilkhanemon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid)]
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2150--967X-A6CE39?style=for-the-badge&logo=orcid)
 [![Email](https://img.shields.io/badge/Email-aakilkhan971@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:aakilkhan971@gmail.com)
 
 </div>
