@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aakil Khan Emon
-### **Computational Biologist & AI-Driven Drug Discovery Researcher**
+### **Early-Stage Researcher | AI-Driven Drug Discovery, Cheminformatics, Structural Bioinformatics & Molecular Dynamics**
 *Erasmus Mundus Scholar | Specialist in Cheminformatics, Molecular Dynamics & Structural Bioinformatics*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Research%20Hub-blue?style=for-the-badge&logo=gitbook)](https://github.com/aakilkhanemon)
