@@ -38,7 +38,7 @@ I am an Erasmus Mundus Joint Master Degree graduate specializing in advanced com
 
 * **[AI-MultiTarget-Screening-Pipeline](https://github.com/aakilkhanemon)**: Automated Python & RDKit pipeline for processing large chemical libraries, filtering via Lipinski/ADMET rules, and executing parallelized docking campaigns.
 * **[MD-Binding-Free-Energy-Toolkit](https://github.com/aakilkhanemon)**: Modular scripts and automation workflows for setting up GROMACS/Desmond production runs and parsing MM-PBSA/GBSA binding trajectories.
-* **[In-Silico-Vaccine-Design-Framework](https://github.com/aakilkhanemon)**: Computational pipeline for reverse vaccinology, T/B-cell epitope prediction, structural stability assessment, and immune simulation modeling.
+* **[In-Silico-Vaccine-Design-Framework](https://github.com/aakilkhanemon)**: Computational pipeline for reverse vaccinology, T-cell and B-cell epitope prediction, structural stability assessment, and immune simulation modeling.
 
 ---
 
