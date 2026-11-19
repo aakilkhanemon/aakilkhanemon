@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohammed Emon (Aakil Khan Emon)
-### Early-Stage Researcher | AI-Guided Molecular Discovery & Biophysical Simulations
+### Early-Stage Researcher | AI-Guided Molecular Discovery and Biophysical Simulations
 *Joint European MSc in Marine Biotechnology (EU-CONEXUS: UCV / LRUniv / AUA) • Visiting Research at CNRS-LIENSs*
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2150--967X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2150-967X)
