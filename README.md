@@ -20,15 +20,15 @@ I am an Early-Stage Researcher working at the interface of **structural bioinfor
 
 - **Automated Cheminformatics:** Engineered modular 14-stage Python/RDKit workflows to process natural product and synthetic libraries, standardizing tautomeric states, macro-pKa profiles, and generating low-energy 3D conformational ensembles (ETKDG v3 / MMFF94).
 - **Target Conformational Dynamics:** Modeled induced-fit loops and flexible catalytic domains (such as the human ACE C-domain and viral targets) using ensemble docking (AutoDock Vina, GNINA CNN scoring) and all-atom molecular dynamics (GROMACS, Desmond).
-- **Free-Energy Landscapes & Consensus Scoring:** Quantified binding energetics via trajectory-derived MM-GBSA decomposition (`gmx_MMPBSA`), per-residue interaction fingerprints (PLIF), and multi-objective ranking architectures.
+- **Free-Energy Landscapes and Consensus Scoring:** Quantified binding energetics via trajectory-derived MM-GBSA decomposition (`gmx_MMPBSA`), per-residue interaction fingerprints (PLIF), and multi-objective ranking architectures.
 
 ---
 
 ### 💻 Technical Stack & Computing Infrastructure
 
-| Domain | Tools & Frameworks |
+| Domain | Tools and Frameworks |
 | :--- | :--- |
-| **Scientific Programming & Pipelines** | Python (RDKit, NumPy, Pandas, Scipy, Scikit-learn), Bash, Conda, Git |
+| **Scientific Programming and Pipelines** | Python (RDKit, NumPy, Pandas, Scipy, Scikit-learn), Bash, Conda, Git |
 | **Cheminformatics & Screening** | RDKit, Open Babel, AutoDock Vina, GNINA (CNN scoring), Lipinski/Veber ADMET |
 | **Structural Dynamics & Energetics** | GROMACS, Desmond, CHARMM/AMBER force fields, MM-GBSA/PBSA (`gmx_MMPBSA`) |
 | **Structural Bioinformatics & Modeling** | AlphaFold/ColabFold modeling, PyMOL, UCSF ChimeraX, PLIP, ProLIF |
