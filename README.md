@@ -8,7 +8,6 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Mohammed__Emon-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammed-Emon-4)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-user=J6MKwPEAAAAJ&hl=en&authuser=4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakilkhanemon)
-[![Email](https://img.shields.io/badge/Email-aakilkhan971%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakilkhan971@gmail.com)
 
 </div>
 
